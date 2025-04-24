@@ -8,7 +8,7 @@ function Navbar() {
     <>
       <div className="n-wrapper" id='Navbar'>
         <div className="n-left">
-            <div className="n-name">Yogesh</div>
+            <div className="n-name">Gaurav</div>
            <Toggle/>
         </div>
         <div className="n-right">
